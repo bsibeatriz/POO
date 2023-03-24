@@ -1,3 +1,12 @@
+image.png
+
+"""
+Descrição da Imagem caso não abra:
+Método protected pode ser acessado pelas classes Mãe e Filha e não pode ser acessado pelo escopo globlal.
+Método private só podem ser acessados dentro da própria classe em que foram declarados. 
+Eles não podem ser acessados nem mesmo por classes filhas.
+"""
+
 """
 1. Crie uma classe chamada Usuario.
 """
